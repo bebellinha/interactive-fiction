@@ -1,6 +1,6 @@
 # INTERACTIVE FICTION
 
-## Teste
+## Teste 2
 
 A choice-based interactive fiction game implemented in Python.
 
