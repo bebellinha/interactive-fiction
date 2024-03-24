@@ -1,0 +1,28 @@
+{
+  "Jorge": {
+    "nome": "Jorge",
+    "ataques": {
+      "Soco": {
+        "descricao": "Um soco rápido",
+        "dado": "4d4+2"
+      },
+      "Tiro": {
+        "descricao": "Um tiro",
+        "dado": "d6+-1"
+      }
+    }
+  },
+  "Esqueleto": {
+    "nome": "Esqueleto",
+    "ataques": {
+      "Soco": {
+        "descricao": "Um soco lento",
+        "dado": "3d4"
+      },
+      "Jogar um osso": {
+        "descricao": "Jogar um osso",
+        "dado": "d4"
+      }
+    }
+  }
+}
